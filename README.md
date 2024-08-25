@@ -1,2 +1,3 @@
-# Mose
-[RA-2024] MOSE: Monocular Semantic Reconstruction Using NeRF-Lifted Noisy Priors
+# MOSE: Monocular Semantic Reconstruction Using NeRF-Lifted Noisy Priors
+RA-L 2024
+Code coming soon...
